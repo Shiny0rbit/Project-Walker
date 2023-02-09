@@ -8,14 +8,14 @@ This is a projec that attempts to do a few things regarding the pokewalker, whic
 - Custom routes with costum pokemon
 - ROM dump
 ______________________________________________________________________
->>>>>>> GUIDES INCLUDED:
+>GUIDES INCLUDED:
 - Custom images
 - ROM dump
 - Shiny (easy way)
 - Shiny (medium way)
 - Shiny ("legit" way)
 
->>>>>>> SAVE FILE INFO:
+>SAVE FILE INFO:
 - Has every pokemon, from every pokewalker route
 - TID + SID: 00000
 - Has shiny pokemon from the pokewalker
@@ -23,17 +23,18 @@ ______________________________________________________________________
 - Has two pokemon from custom routes on the pokewalker
 ______________________________________________________________________
 
->>> Whats finished so far:
+>Whats finished so far:
 - Shiny pokemon from the walker
 - Event pokemon from the walker
 - Custom images
 - Custom route with custom pokemon
 - Archive of all pokemon + events (save file)
 
->>>> Whats still in progess:
+>Whats still in progess:
 - Shiny offical pokewalker event pokemon
 - Custom text
 - ROM DUMP
+_______________________________________________________________________
 
->>>> Last 3 Project updates:
+>Last 3 Project updates:
 2-8-2023 > v0.5: Finished the save file with all of the pokewalker's pokemon
