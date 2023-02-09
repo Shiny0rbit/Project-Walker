@@ -5,7 +5,7 @@ This is a projec that attempts to do a few things regarding the pokewalker, whic
 - Shiny pokemon from the pokewalker
 - Event pokemon obtained on the pokewalker
 - Custom images + text
-- Custom routes with costum pokemon
+- Custom routes with custom pokemon
 - ROM dump
 ______________________________________________________________________
 >GUIDES INCLUDED:
