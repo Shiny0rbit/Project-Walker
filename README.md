@@ -1,4 +1,4 @@
-# Project-Walker
+# Project-Walker (v0.5)
 
 This is a projec that attempts to do a few things regarding the pokewalker, which are:
 - Archive the pokemon + events
