@@ -1,6 +1,6 @@
 # Project-Walker (v0.5)
 
-This is a projec that attempts to do a few things regarding the pokewalker, which are:
+This is a project that attempts to do a few things regarding the pokewalker, which are:
 - Archive the pokemon + events
 - Shiny pokemon from the pokewalker
 - Event pokemon obtained on the pokewalker
