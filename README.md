@@ -36,5 +36,5 @@ ______________________________________________________________________
 - ROM DUMP
 _______________________________________________________________________
 
->Last 3 Project updates:
-2-8-2023 > v0.5: Finished the save file with all of the pokewalker's pokemon
+>Last 3 Project updates: 
+2-8-2023: v0.5 = Finished the save file with all of the pokewalker's pokemon
